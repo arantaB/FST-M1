@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[The navigation bar and My Account menu item is present]]>
+    </line>
+    <line>
+      <![CDATA[The navigation bar and My Account menu item is present]]>
+    </line>
+    <line>
+      <![CDATA[The UserName field and Password field is present]]>
+    </line>
+    <line>
+      <![CDATA[The navigation bar and All Courses menu item is present]]>
+    </line>
+    <line>
+      <![CDATA[The number of courses present in All Courses are : 3]]>
+    </line>
+    <line>
+      <![CDATA[The navigation bar and Contact menu item is present]]>
+    </line>
+    <line>
+      <![CDATA[The message displayed after submitting message is : Thanks for contacting us! We will be in touch with you shortly.]]>
+    </line>
+    <line>
+      <![CDATA[The navigation bar and All Courses menu item is present]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-02-05T23:53:08 IST" name="Selenium Live Project" finished-at="2022-02-05T23:54:05 IST" duration-ms="56804">
+    <groups>
+    </groups>
+    <test started-at="2022-02-05T23:53:08 IST" name="testngTest" finished-at="2022-02-05T23:54:05 IST" duration-ms="56804">
+      <class name="Selenium.Activity8">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Selenium.Activity8@5acf93bb]" started-at="2022-02-05T23:53:41 IST" name="beforeMethod" finished-at="2022-02-05T23:53:43 IST" duration-ms="2817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="contactAdmin()[pri:0, instance:Selenium.Activity8@5acf93bb]" started-at="2022-02-05T23:53:43 IST" name="contactAdmin" finished-at="2022-02-05T23:53:51 IST" duration-ms="7570" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[The navigation bar and Contact menu item is present]]>
+            </line>
+            <line>
+              <![CDATA[The message displayed after submitting message is : Thanks for contacting us! We will be in touch with you shortly.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- contactAdmin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Selenium.Activity8@5acf93bb]" started-at="2022-02-05T23:53:51 IST" name="afterMethod" finished-at="2022-02-05T23:53:52 IST" duration-ms="742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.Activity8 -->
+      <class name="Selenium.Activity7">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Selenium.Activity7@2f217633]" started-at="2022-02-05T23:53:36 IST" name="beforeMethod" finished-at="2022-02-05T23:53:39 IST" duration-ms="2755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkNumberOfCourses()[pri:0, instance:Selenium.Activity7@2f217633]" started-at="2022-02-05T23:53:39 IST" name="checkNumberOfCourses" finished-at="2022-02-05T23:53:40 IST" duration-ms="896" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[The navigation bar and All Courses menu item is present]]>
+            </line>
+            <line>
+              <![CDATA[The number of courses present in All Courses are : 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkNumberOfCourses -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Selenium.Activity7@2f217633]" started-at="2022-02-05T23:53:40 IST" name="afterMethod" finished-at="2022-02-05T23:53:41 IST" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.Activity7 -->
+      <class name="Selenium.Activity9">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Selenium.Activity9@7e7be63f]" started-at="2022-02-05T23:53:52 IST" name="beforeMethod" finished-at="2022-02-05T23:53:55 IST" duration-ms="3007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="completeLessonTest()[pri:0, instance:Selenium.Activity9@7e7be63f]" started-at="2022-02-05T23:53:55 IST" name="completeLessonTest" finished-at="2022-02-05T23:54:03 IST" duration-ms="8722" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[The navigation bar and All Courses menu item is present]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- completeLessonTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Selenium.Activity9@7e7be63f]" started-at="2022-02-05T23:54:03 IST" name="afterMethod" finished-at="2022-02-05T23:54:05 IST" duration-ms="1309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.Activity9 -->
+      <class name="Selenium.Activity4">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Selenium.Activity4@611889f4]" started-at="2022-02-05T23:53:22 IST" name="beforeMethod" finished-at="2022-02-05T23:53:25 IST" duration-ms="2669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkTitleSecondPopularCourse()[pri:0, instance:Selenium.Activity4@611889f4]" started-at="2022-02-05T23:53:25 IST" name="checkTitleSecondPopularCourse" finished-at="2022-02-05T23:53:25 IST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitleSecondPopularCourse -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Selenium.Activity4@611889f4]" started-at="2022-02-05T23:53:25 IST" name="afterMethod" finished-at="2022-02-05T23:53:26 IST" duration-ms="745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.Activity4 -->
+      <class name="Selenium.Activity3">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Selenium.Activity3@3f6b0be5]" started-at="2022-02-05T23:53:19 IST" name="beforeMethod" finished-at="2022-02-05T23:53:22 IST" duration-ms="2748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkTitleInfoBox()[pri:0, instance:Selenium.Activity3@3f6b0be5]" started-at="2022-02-05T23:53:22 IST" name="checkTitleInfoBox" finished-at="2022-02-05T23:53:22 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitleInfoBox -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Selenium.Activity3@3f6b0be5]" started-at="2022-02-05T23:53:22 IST" name="afterMethod" finished-at="2022-02-05T23:53:22 IST" duration-ms="670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.Activity3 -->
+      <class name="Selenium.Activity6">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Selenium.Activity6@48f278eb]" started-at="2022-02-05T23:53:30 IST" name="beforeMethod" finished-at="2022-02-05T23:53:33 IST" duration-ms="2581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkTitleAndLoginTest()[pri:0, instance:Selenium.Activity6@48f278eb]" started-at="2022-02-05T23:53:33 IST" name="checkTitleAndLoginTest" finished-at="2022-02-05T23:53:36 IST" duration-ms="2920" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[The navigation bar and My Account menu item is present]]>
+            </line>
+            <line>
+              <![CDATA[The UserName field and Password field is present]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkTitleAndLoginTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Selenium.Activity6@48f278eb]" started-at="2022-02-05T23:53:36 IST" name="afterMethod" finished-at="2022-02-05T23:53:36 IST" duration-ms="721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.Activity6 -->
+      <class name="Selenium.Activity5">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Selenium.Activity5@1da2cb77]" started-at="2022-02-05T23:53:26 IST" name="beforeMethod" finished-at="2022-02-05T23:53:29 IST" duration-ms="2656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkNavigationToMyAccountTest()[pri:0, instance:Selenium.Activity5@1da2cb77]" started-at="2022-02-05T23:53:29 IST" name="checkNavigationToMyAccountTest" finished-at="2022-02-05T23:53:29 IST" duration-ms="813" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[The navigation bar and My Account menu item is present]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkNavigationToMyAccountTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Selenium.Activity5@1da2cb77]" started-at="2022-02-05T23:53:29 IST" name="afterMethod" finished-at="2022-02-05T23:53:30 IST" duration-ms="710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.Activity5 -->
+      <class name="Selenium.Activity2">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Selenium.Activity2@3b6ddd1d]" started-at="2022-02-05T23:53:15 IST" name="beforeMethod" finished-at="2022-02-05T23:53:18 IST" duration-ms="2963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkWebsiteHeading()[pri:0, instance:Selenium.Activity2@3b6ddd1d]" started-at="2022-02-05T23:53:18 IST" name="checkWebsiteHeading" finished-at="2022-02-05T23:53:18 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWebsiteHeading -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Selenium.Activity2@3b6ddd1d]" started-at="2022-02-05T23:53:18 IST" name="afterMethod" finished-at="2022-02-05T23:53:19 IST" duration-ms="741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.Activity2 -->
+      <class name="Selenium.Activity1">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Selenium.Activity1@793be5ca]" started-at="2022-02-05T23:53:08 IST" name="beforeMethod" finished-at="2022-02-05T23:53:14 IST" duration-ms="6277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkTitle()[pri:0, instance:Selenium.Activity1@793be5ca]" started-at="2022-02-05T23:53:14 IST" name="checkTitle" finished-at="2022-02-05T23:53:14 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Selenium.Activity1@793be5ca]" started-at="2022-02-05T23:53:14 IST" name="afterMethod" finished-at="2022-02-05T23:53:15 IST" duration-ms="753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Selenium.Activity1 -->
+    </test> <!-- testngTest -->
+  </suite> <!-- Selenium Live Project -->
+</testng-results>

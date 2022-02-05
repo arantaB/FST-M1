@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Selenium Live Project">
+    <test name="testngTest">
+        <classes>
+            <class name="Selenium.Activity1" />
+            <class name="Selenium.Activity2" />
+            <class name="Selenium.Activity3" />
+            <class name="Selenium.Activity4" />
+            <class name="Selenium.Activity5" />
+            <class name="Selenium.Activity6" />
+            <class name="Selenium.Activity7" />
+            <class name="Selenium.Activity8" />
+            <class name="Selenium.Activity9" />
+        </classes>
+    </test>
+</suite>
